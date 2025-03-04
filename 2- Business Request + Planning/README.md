@@ -55,7 +55,3 @@ By implementing this solution, the business will:
 🔹 **Step 3:** Exporting aggregated results to CSV for Power BI.  
 🔹 **Step 4:** Creating a **Static Power BI Dashboard**.  
 🔹 **Step 5:** Documentation & GitHub Upload.  
-
----
-
-🔗 **Project Repository:** https://github.com/FabrizioMora/Maven_Roasters_Analysis.git
